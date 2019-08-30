@@ -3,11 +3,11 @@
 
 <blockquote>
 Book : Artificial Inteligence Using C language By: Herbert Schildt 
-</blockquote | 
+</blockquote> 
 
-
+<h1>Chapter I</h1>
 <blockquote>
-<H2>1. Solve First Problem:</H2>
+<H2>1. First Problem:</H2>
 <ul><li>
     Imagine you are a travel agent and a naughty customer wants you to book a flight from New York to Los Angeles on XYZ Airlines.
     Although you tell the naughty customer that XYZ Airlines does not have a direct flight from New York to Los Angeles, the customer insists on a flight on XYZ.
