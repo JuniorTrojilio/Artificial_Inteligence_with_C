@@ -87,6 +87,14 @@ Book : Artificial Inteligence Using C language By: Herbert Schildt
 <h2>Resolution:</h2>
 <ul>
     <li><a href="https://github.com/JuniorTrojilio/Artificial_Inteligence_with_C/tree/develop/Depth_Search">Depth Search: </a></li> 
+    
     High Cost, Low accuracy.
 </ul>
+
+<ul>
+    <li><a href="https://github.com/JuniorTrojilio/Artificial_Inteligence_with_C/tree/develop/Level_Search">Level Search: </a></li> 
+                
+    High Cost, High accuracy for this problem .
+</ul>
+    
 
