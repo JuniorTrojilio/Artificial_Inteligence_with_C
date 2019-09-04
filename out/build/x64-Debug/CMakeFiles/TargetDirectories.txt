@@ -7,3 +7,8 @@ C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Deb
 C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Depth_Search/CMakeFiles/package_source.dir
 C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Depth_Search/CMakeFiles/edit_cache.dir
 C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Depth_Search/CMakeFiles/rebuild_cache.dir
+C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Level_Search/CMakeFiles/Level_Search.dir
+C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Level_Search/CMakeFiles/package.dir
+C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Level_Search/CMakeFiles/package_source.dir
+C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Level_Search/CMakeFiles/edit_cache.dir
+C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Level_Search/CMakeFiles/rebuild_cache.dir

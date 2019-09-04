@@ -35,6 +35,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Depth_Search/cmake_install.cmake")
+  include("C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug/Level_Search/cmake_install.cmake")
 
 endif()
 

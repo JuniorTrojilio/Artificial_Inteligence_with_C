@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Depth_Search"
+    "\\Depth_Search",
+    "\\Level_Search"
   ],
-  "SelectedNode": "\\.gitiguinore",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

@@ -46,3 +46,8 @@
 83	236	588822151	Depth_Search/Depth_Search.exe	2f25bbe4ca42e08c
 0	183	588822252	Depth_Search/CMakeFiles/Depth_Search.dir/Depth_Search.c.obj	d3d2eac43e77ff34
 184	303	588822252	Depth_Search/Depth_Search.exe	2f25bbe4ca42e08c
+1	138	589264837	build.ninja	310b94652234032f
+0	715	589264838	Level_Search/CMakeFiles/Level_Search.dir/Level_Search.c.obj	612762611760aed9
+716	1096	589264838	Level_Search/Level_Search.exe	202cdba4966a28cf
+1	189	589265347	Level_Search/CMakeFiles/Level_Search.dir/Level_Search.c.obj	612762611760aed9
+189	310	589265347	Level_Search/Level_Search.exe	202cdba4966a28cf

@@ -1,0 +1,120 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Depth_Search",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Depth_Search",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Level_Search",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Level_Search",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Artificial_Inteligence_in_C"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Depth_Search",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Level_Search",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Depth_Search::@c97a7dca9540fd1b6d76",
+					"jsonFile" : "target-Depth_Search-Debug-4f7eba4433a8eae466d4.json",
+					"name" : "Depth_Search",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Level_Search::@a0715eaf357fd173ede4",
+					"jsonFile" : "target-Level_Search-Debug-6d367a3d58673b88b51e.json",
+					"name" : "Level_Search",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C/out/build/x64-Debug",
+		"source" : "C:/Users/osmar/OneDrive/Projects/Artificial_Inteligence_with_C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
